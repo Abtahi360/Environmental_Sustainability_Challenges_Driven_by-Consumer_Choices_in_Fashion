@@ -1,7 +1,3 @@
-Here’s a suggested **README.md** structure for your paper on GitHub:
-
----
-
 # **Environmental Sustainability Challenges Driven by Consumer Choices in Fashion**  
 📄 *A research study on the impact of consumer habits on environmental sustainability in the fashion industry.*
 
@@ -29,7 +25,3 @@ This study explores consumer behavior in the apparel industry and its environmen
 ## **How to Cite**  
 If you use this research, please cite as:  
 **Islam, A., & Fardus, J. (Year). Environmental Sustainability Challenges Driven by Consumer Choices in Fashion. AIUB, Bangladesh.**  
-
----
-
-Let me know if you want any modifications before uploading! 🚀
